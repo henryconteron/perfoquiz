@@ -81,12 +81,12 @@ Las últimas posibilidades son inferencias de preparación, no datos confirmados
 | Día | Práctica |
 | --- | --- |
 | 1 | Seguridad: responde la ronda, lee las correcciones y explica tres riesgos con tus palabras. |
-| 2 | Perforación: aprende el vocabulario y practica las ocho preguntas de ese tema. |
-| 3 | Cálculo: resuelve los ocho ejercicios en papel y verifica unidades. Las dosificaciones son ficticias. |
+| 2 | Perforación: aprende el vocabulario, juega con fotos y observa un video de la biblioteca. |
+| 3 | Cálculo: resuelve una ronda de 10 ejercicios en papel y verifica unidades. Los datos de cálculo son ficticios. |
 | 4 | Atención y lógica: compara códigos y resuelve series y secuencias. Luego repite errores anteriores. |
 | 5 | Trabajo en equipo: practica confirmar instrucciones y reportar una condición insegura. |
 | 6 | Entrevista: responde en voz alta durante 45–60 segundos; compara con la guía y usa historias verdaderas. |
-| 7 | Simulacro mixto de 20 preguntas; revisa todos los errores y repite los temas que fallaste. |
+| 7 | Simulacro mixto de 30 o 60 preguntas; revisa todos los errores y repite los temas que fallaste. |
 
 El plan y el número de preguntas son decisiones de esta práctica. Un porcentaje alto en el juego no demuestra competencia para operar equipos. Da prioridad a comprender todos los errores de seguridad, aunque tu nota global sea buena.
 
@@ -108,3 +108,35 @@ Una estructura útil: **situación → tarea → acción → resultado**. Es una
 - ¿Cuáles son las tareas iniciales y quién las supervisa?
 
 El anuncio no especifica sueldo, proyecto, turnos, campamento ni pruebas. Confírmalos antes de organizar tu disponibilidad.
+
+## La web ampliada
+
+La edición ampliada contiene 200 preguntas originales en 11 temas, 16 preguntas de entrevista, un recorrido de 12 etapas por un turno de ejemplo, un glosario de 16 términos y una biblioteca de 27 recursos. Hay rondas de 10, temas completos y simulacros de 30 o 60 preguntas. El banco permite buscar y filtrar todas las preguntas, incluidas las pendientes y las que tuvieron un último intento incorrecto.
+
+Cada pregunta explica la decisión y enlaza su referencia, o se identifica como ejercicio propio de cálculo, lógica o comunicación. Consultar una respuesta en el banco no la marca como respondida. El avance cuenta preguntas distintas revisadas; no es una certificación de competencia. Los datos se guardan en cada navegador, sin sincronización entre dispositivos.
+
+## Un turno de ejemplo
+
+En la sección «Un día en campo» puedes recorrer estas etapas y resolver casos asociados: antes de salir; reunión previa y relevo; conocer el área; revisión previa asignada; organizar herramientas; apoyo a movimientos; apoyo durante la perforación; recibir y cuidar muestras; preparar productos asignados; cambios y condiciones del turno; orden y cierre de tareas; entregar el turno.
+
+Es una propuesta educativa, no un horario ni un procedimiento de Hubbard. Las fuentes describen tareas del sector que deben adaptarse a tu formación y a las instrucciones del proyecto. No se fijan revoluciones, presiones, torques, dosis ni capacidades de carga para una máquina real.
+
+Referencias adicionales: [Funciones en superficie](https://careers.boartlongyear.com/jobs/driller-assistant-surface-coring-perth-wa-au-56), [mapa oficial de competencias de ayudante de diamantina](https://training.gov.au/TrainingComponentFiles/RII/RIINHB208E_R1.pdf), [vida de una cuadrilla](https://www.boartlongyear.com/insite/a-career-like-no-other-are-you-up-for-the-challenge/).
+
+## Videos y lectura complementaria
+
+La biblioteca ofrece tres videos cuyos enlaces aparecen en las páginas oficiales indicadas. La ficha te propone qué observar y una pregunta para comprobar tu comprensión. No se descargan ni se redistribuyen los videos. La mayoría del material está en inglés; las indicaciones de estudio y los quizzes están en español.
+
+- [Interfaz de perforación DCi](https://www.youtube.com/watch?v=m7mm0lz1SZc). Origen: [página de Boart Longyear](https://www.boartlongyear.com/product/dci/).
+- [LF160 y cargador FL262](https://www.youtube.com/watch?v=H3pf2857Bes). Origen: [página de Boart Longyear](https://www.boartlongyear.com/product/lf160/).
+- [Peligros de sílice en el trabajo](https://www.youtube.com/watch?v=-kQmLYqIR2A). Origen: [página de OSHA](https://www.osha.gov/silica-crystalline).
+
+Los videos del fabricante muestran equipos específicos; no confirman qué máquinas tiene Hubbard. El material de OSHA se utiliza para estudiar el peligro, sin presentar sus reglas como legislación ecuatoriana. La reproducción depende de YouTube y de la disponibilidad del proveedor.
+
+La biblioteca también reúne lecturas sobre herramientas, cargas, eslingas, químicos, derrames, respiradores, emergencias, espacios confinados, ruido, calor, fatiga, aislamiento y maniobras. Para información local incluye el [repositorio oficial del Ministerio del Trabajo de Ecuador](https://www.trabajo.gob.ec/normativa-legal-programas-formatos-y-guias/).
+
+## Cobertura y verificación
+
+Última revisión de fuentes: 1 de octubre de 2026. Se consultaron fuentes primarias del fabricante, entidades públicas de seguridad y el registro oficial de formación. Las preguntas son casos nuevos, no una copia de un examen ajeno. CCOHS corresponde a Canadá; OSHA y NOAA/NWS a Estados Unidos; la unidad formativa corresponde a Australia. Se explican sus límites en las fichas.
+
+La cobertura es amplia para empezar, pero no puede prometer todos los conocimientos ni todas las pruebas posibles. El método de perforación, el equipo, las condiciones del sitio y la capacitación del empleador pueden añadir otros temas. Usa el banco para localizar dudas y pedir aclaraciones concretas en tu inducción.

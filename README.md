@@ -1,6 +1,6 @@
 # Tu primer turno · Quiz de perforación
 
-Web de estudio en español para empezar sin experiencia como ayudante de perforación. Incluye 48 preguntas, 6 retos con fotos reales, simulacro mixto de 20 preguntas y 8 preguntas de entrevista con autoevaluación.
+Web de estudio en español para empezar sin experiencia como ayudante de perforación. Incluye 200 preguntas en 11 temas (6 retos con fotos), 16 preguntas de entrevista, 12 etapas de un turno de ejemplo, 16 términos y 27 recursos de estudio, incluidos 3 videos de origen oficial.
 
 Abre `index.html` en un navegador o sirve esta carpeta como una web estática. No necesita instalar paquetes ni configurar un servidor de aplicación. La publicación utiliza GitHub Pages, rama `main`, carpeta raíz.
 
@@ -8,8 +8,12 @@ Abre `index.html` en un navegador o sirve esta carpeta como una web estática. N
 
 - **Entrenar:** selecciona un tema y aprende con la corrección inmediata.
 - **Quiz con fotos:** identifica broca, testigos y características observables.
-- **Simulacro:** 20 preguntas aleatorias, corrección al terminar.
+- **Simulacro:** 30 o 60 preguntas aleatorias con todos los temas, corrección al terminar.
 - **Entrevista:** responde en voz alta y compara con la guía.
+- **Un día en campo:** tareas, límites, frases de reporte y situaciones interactivas en 12 etapas.
+- **Biblioteca:** videos, lecturas y documentos; filtros, búsqueda y marcas de estudio.
+- **Banco completo:** consulta las 200 preguntas, busca por palabra y filtra por tema o avance.
+- **Entrenar pendientes / errores:** rondas basadas en preguntas distintas y su último intento.
 - **Guía:** plan de siete días, referencias y créditos de fotos.
 
 Los avances se guardan con `localStorage` en el navegador de cada dispositivo. No hay cuentas ni sincronización entre teléfono y laptop. No se graba audio ni se envían respuestas a un servidor.
@@ -31,3 +35,9 @@ Imágenes de Wikimedia Commons, reducidas y recomprimidas, sin recorte ni cambio
 Las versiones de imágenes CC BY-SA se distribuyen bajo esa misma licencia. Ningún autor o entidad citada respalda este juego. Las fotos son de referencia y no representan equipos ni proyectos identificados de Hubbard.
 
 Investigación inicial: 1 de octubre de 2026. Ver `guia.html` y `guia.md` para las fuentes de estudio.
+
+## Datos y mantenimiento
+
+`data.js` conserva las preguntas iniciales e `expansion.js` añade contenido, fuentes, recorrido y biblioteca. `app.js` mezcla opciones y calcula los resultados. La primera respuesta del arreglo de cada pregunta es la clave, nunca su posición visible. Se preserva el almacenamiento de la edición anterior y se recuperan sus respuestas disponibles para el indicador de cobertura. Una ronda de examen actualiza el indicador al finalizar para no revelar la corrección durante la prueba.
+
+Las preguntas tienen identificadores únicos y fuentes asociadas. El número mostrado deriva del banco cargado. Los videos enlazan a YouTube y a la página oficial de origen; no se alojan copias ni se requiere un iframe de terceros para usar el quiz.

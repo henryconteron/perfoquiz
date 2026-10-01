@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#142631">
+  <meta name="description" content="Practica para ayudante de perforación: quizzes de seguridad, fotos reales, cálculos y entrevistas. Para aprender desde cero, en laptop y teléfono.">
+  <title>Tu primer turno · Quiz de perforación</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23142631'/%3E%3Cpath d='M8 16l5 5L24 10' fill='none' stroke='%23ffc354' stroke-width='4'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script src="data.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#game">Ir a la pregunta</a>
+  <div class="app-shell">
+    <header class="masthead">
+      <div><div class="eyebrow">PREPARACIÓN · PERFORACIÓN MINERA</div><h1>Tu primer turno<span class="title-dot">.</span></h1><p>Aprende desde cero, una decisión a la vez.</p></div>
+      <div class="edition"><span>48 retos</span><small>Nivel inicial</small></div>
+    </header>
+    <nav class="mode-nav" aria-label="Modos de estudio">
+      <button type="button" data-mode="practice" aria-pressed="true"><span class="nav-number">01</span> Entrenar</button>
+      <button type="button" data-mode="photo" aria-pressed="false"><span class="nav-number">02</span> Quiz con fotos</button>
+      <button type="button" data-mode="exam" aria-pressed="false"><span class="nav-number">03</span> Simulacro</button>
+      <button type="button" data-mode="interview" aria-pressed="false"><span class="nav-number">04</span> Entrevista</button>
+    </nav>
+    <main class="workspace">
+      <section id="game" class="game-panel" aria-label="Área de práctica"></section>
+      <aside class="study-panel" aria-label="Temas de estudio">
+        <div class="eyebrow">TU RUTA DE APRENDIZAJE</div>
+        <h2>Aprender antes de actuar.</h2>
+        <div id="topic-list"></div>
+        <div class="side-note"><strong>¿Te llaman pronto?</strong><p>Empieza por seguridad. Después reconoce las herramientas y practica cómo pedir instrucciones.</p><button type="button" class="text-button" data-mode="guide">Guía de 7 días y fuentes</button></div>
+        <p class="device-note" id="storage-note">Tu ronda se guarda en este navegador. Laptop y teléfono tienen avances separados.</p>
+      </aside>
+    </main>
+    <footer><span>Práctica independiente. No es una prueba oficial ni una capacitación para operar equipos.</span><button type="button" class="text-button" data-mode="guide">Fuentes y créditos de fotos</button></footer>
+  </div>
+  <noscript>Activa JavaScript en tu navegador para responder los quizzes. Puedes leer la <a href="guia.html">guía de estudio</a>.</noscript>
+</body>
+</html>
